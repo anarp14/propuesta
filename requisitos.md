@@ -325,6 +325,330 @@
 | **Entrega**     | v1             |
 
 
+| **R37**     | **Creación base de datos **         |
+| --------------: | :------------------- |
+| **Descripción** | Elaboración de la base de datos de la aplicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R38**     | **Modelo entidad-relación**         |
+| --------------: | :------------------- |
+| **Descripción** | Elaboración del diagrama entidad-relación de la base de datos de la aplicación.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Técnico                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R39**     | **Registro**         |
+| --------------: | :------------------- |
+| **Descripción** | Los visitantes podrán registrarse en la aplicación web.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R40**     | **Iniciar sesión **         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios deben poder iniciar sesión en la aplicación utilizando su cuenta de usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R41**     | **Recuperar contraseña**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario puede solicitar una nueva contraseña si no recuerda la actual.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R42**     | **Validar correo**         |
+| --------------: | :------------------- |
+| **Descripción** | El usuario debe completar el proceso de verificación de correo electrónico para poder iniciar sesión.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v1             |
+
+
+| **R43**     | **Perfil usuario**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán ver y modificar sus datos en su perfil de usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R44**     | **Portal administrador**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador tendrá la capacidad de administrar los elementos de la aplicación a través del panel de administración.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R45**     | **Crear actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá crear nuevas actividades.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R46**     | **Modificar actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá modificar las actividades.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R47**     | **Borrar actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador  podrá borrar actividades existentes.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R48**     | **Bloquear actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá restringir temporalmente el acceso o disponibilidad de ciertas actividades.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R49**     | **Añadir categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá añadir categorías para organizar las actividades en función del número de actividades.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R50**     | **Modificar categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá modificar las categorías             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R51**     | **Borrar categoría**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá borrar categorías existentes.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R52**     | **Ver usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá acceder a una lista de usuarios registrados y examinar la información relacionada con cada uno de ellos.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R53**     | **Bloquear/desbloquear usuarios**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá bloquear o desbloquear el acceso a un usuario.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R54**     | **Filtro de reservas **         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá filtrar entre las reservas realizadas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R55**     | **Ver reservas**         |
+| --------------: | :------------------- |
+| **Descripción** | El administrador podrá ver un listado de las reservas.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v2             |
+
+
+| **R56**     | **Buscar actividades**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán buscar actividades según el nombre que hayan indicado en el buscador.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R57**     | **Filtrar actividades**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios o invitados podrán filtrar entre las actividades disponibles según unas serie de criterios.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R58**     | **Vista de la actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | Los visitantes al entrar en una actividad podrán ver todos los detalles de la misma.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R59**     | **Reservar actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán realizar la reserva de una actividad. Si no están registrados se les dirigirá a la página de registro.              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R60**     | **Cancelar actividad**         |
+| --------------: | :------------------- |
+| **Descripción** | Cancelar actividad de una reserva previa.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R61**     | **Escribir una reseña**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán dejar una reseña una vez realizada la actividad.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R62**     | **Dejar  valoración **         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán calificar la actividad de forma numérica (De 1 a 5)             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v3             |
+
+
+| **R63**     | **Sistema de Pago en Línea**         |
+| --------------: | :------------------- |
+| **Descripción** | Configurar un sistema de pago en línea.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R64**     | **Envío de correo de confirmación de la reserva**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios recibirán un correo confirmando la reserva y con la información de la misma.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R65**     | **Envío de correo de recordatorio**         |
+| --------------: | :------------------- |
+| **Descripción** | Enviar notificaciones o recordatorios por correo electrónico a los usuarios antes de la fecha de la actividad reservada.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v3             |
+
+
+| **R66**     | **Generar PDF de la reserva **         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán descargar un pdf con toda la información de la reserva y del pago de la misma.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R67**     | **Mapa de Ubicación **         |
+| --------------: | :------------------- |
+| **Descripción** | Los visitantes del sitio web podrán ver la ubicación física de la empresa en un mapa interactivo.              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R68**     | **Formulario contacto**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios/visitantes podrán ponerse en contacto con nosotros a través de un formulario donde podrán exponer cualquier duda o pregunta.              |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Media         |
+| **Entrega**     | v2             |
+
+
+| **R69**     | **Galería de imágenes**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios/visitantes podrán ver una recopilación de  imágenes de personas que han participado en nuestras actividades.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R70**     | **Nuestra historia**         |
+| --------------: | :------------------- |
+| **Descripción** | Ventana informativa que brinda a los visitantes una visión de la empresa.             |
+| **Prioridad**   | Importante           |
+| **Tipo**        | Información                |
+| **Complejidad** | Fácil         |
+| **Entrega**     | v1             |
+
+
+| **R71**     | **Newsletter**         |
+| --------------: | :------------------- |
+| **Descripción** | Enviar correos electrónicos periódicos a personas interesadas en nuestro contenido, actualizaciones o promociones. Los suscriptores proporcionan su dirección de correo electrónico y, a cambio, reciben información relevante en su correo electrónico.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
+| **R72**     | **API de autenticación de Google**         |
+| --------------: | :------------------- |
+| **Descripción** | Los usuarios podrán iniciar sesión utilizando su cuenta de correo de Gmail.             |
+| **Prioridad**   | Opcional           |
+| **Tipo**        | Funcional                |
+| **Complejidad** | Difícil         |
+| **Entrega**     | v3             |
+
+
 
 ## Cuadro resumen
 
@@ -366,3 +690,39 @@
 | (**R34**) Varios navegadores | Mínimo | Técnico | Fácil | v1 | 
 | (**R35**) Despliegue en un Host | Mínimo | Técnico | Fácil | v1 | 
 | (**R36**) Despliegue en un servidor local | Mínimo | Técnico | Fácil | v1 | 
+| (**R37**) Creación base de datos  | Importante | Técnico | Fácil | v1 | 
+| (**R38**) Modelo entidad-relación | Importante | Técnico | Fácil | v1 | 
+| (**R39**) Registro | Importante | Funcional | Fácil | v1 | 
+| (**R40**) Iniciar sesión  | Importante | Funcional | Fácil | v1 | 
+| (**R41**) Recuperar contraseña | Opcional | Funcional | Media | v1 | 
+| (**R42**) Validar correo | Opcional | Funcional | Media | v1 | 
+| (**R43**) Perfil usuario | Importante | Funcional | Fácil | v1 | 
+| (**R44**) Portal administrador | Importante | Funcional | Fácil | v1 | 
+| (**R45**) Crear actividad | Importante | Funcional | Fácil | v1 | 
+| (**R46**) Modificar actividad | Importante | Funcional | Fácil | v1 | 
+| (**R47**) Borrar actividad | Importante | Funcional | Fácil | v1 | 
+| (**R48**) Bloquear actividad | Importante | Funcional | Fácil | v1 | 
+| (**R49**) Añadir categoría | Opcional | Funcional | Fácil | v1 | 
+| (**R50**) Modificar categoría | Opcional | Funcional | Fácil | v1 | 
+| (**R51**) Borrar categoría | Opcional | Funcional | Fácil | v1 | 
+| (**R52**) Ver usuarios | Importante | Funcional | Fácil | v1 | 
+| (**R53**) Bloquear/desbloquear usuarios | Importante | Funcional | Media | v2 | 
+| (**R54**) Filtro de reservas  | Importante | Funcional | Media | v2 | 
+| (**R55**) Ver reservas | Importante | Funcional | Fácil | v2 | 
+| (**R56**) Buscar actividades | Importante | Funcional | Fácil | v1 | 
+| (**R57**) Filtrar actividades | Importante | Funcional | Fácil | v1 | 
+| (**R58**) Vista de la actividad | Importante | Funcional | Fácil | v1 | 
+| (**R59**) Reservar actividad | Importante | Funcional | Fácil | v1 | 
+| (**R60**) Cancelar actividad | Importante | Funcional | Fácil | v1 | 
+| (**R61**) Escribir una reseña | Importante | Funcional | Fácil | v1 | 
+| (**R62**) Dejar  valoración  | Opcional | Funcional | Fácil | v3 | 
+| (**R63**) Sistema de Pago en Línea | Importante | Funcional | Media | v2 | 
+| (**R64**) Envío de correo de confirmación de la reserva | Importante | Funcional | Media | v2 | 
+| (**R65**) Envío de correo de recordatorio | Opcional | Funcional | Media | v3 | 
+| (**R66**) Generar PDF de la reserva  | Opcional | Funcional | Difícil | v3 | 
+| (**R67**) Mapa de Ubicación  | Importante | Funcional | Media | v2 | 
+| (**R68**) Formulario contacto | Importante | Funcional | Media | v2 | 
+| (**R69**) Galería de imágenes | Importante | Información | Fácil | v1 | 
+| (**R70**) Nuestra historia | Importante | Información | Fácil | v1 | 
+| (**R71**) Newsletter | Opcional | Funcional | Difícil | v3 | 
+| (**R72**) API de autenticación de Google | Opcional | Funcional | Difícil | v3 | 
